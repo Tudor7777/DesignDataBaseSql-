@@ -10,7 +10,7 @@ and in one-to-many, one record in a table can be associated with one or more rec
 # Some of Sql query  
 
 ![Schema](https://github.com/Tudor7777/DesignDataBaseSql-/blob/main/sql orderby.JPG)
-![Schema](https://github.com/Tudor7777/DesignDataBaseSql-/blob/main/sql query group by.JPG)
+![Schema](https://github.com/Tudor7777/DesignDataBaseSql/sql query group by.JPG)
 ![Schema](https://github.com/Tudor7777/DesignDataBaseSql-/blob/main/sql query like.JPG)
 ![Schema](https://github.com/Tudor7777/DesignDataBaseSql-/blob/main/sql query where.JPG)
 
