@@ -23,5 +23,7 @@ and in one-to-many, one record in a table can be associated with one or more rec
 
 ![sql query like](https://github.com/Tudor7777/DesignDataBaseSql-/blob/main/agegraph.JPG)
 
+The data used and entered in the tables and diagrams are only for the purpose of learning the software.
+
 
 
