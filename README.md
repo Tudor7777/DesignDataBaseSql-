@@ -1,4 +1,7 @@
-# DesignDataBaseSql-
+# DesignDataBaseSql
+
+Created cinematic database with PHPmyAdmin from XAMPP.
+Cinematic.sql script is exported from the soft.
  
 Diagram relationships for cinematic (Movies, Genre, Duration , Actors, Directors, Age)
 
